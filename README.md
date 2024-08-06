@@ -33,7 +33,7 @@ Implemented data exploration tasks:
 
 
 ### PHASE 2 - Data Preprocessing
-> Corresponding notebook:  [data-preprocessing.ipynb](https://github.com/sinanw/lstm-stock-price-prediction/blob/main/notebooks/2-data-preprocessing.ipynb)
+> Corresponding notebook:  [Data-Preprocessing.ipynb](https://github.com/Pavun-KumarCH/LSTM-stock-price-prediction/blob/main/research%20-%20Notebooks/Data-Preprocessing.ipynb)
 
 Implemented data processing and transformation tasks:
 1. Load the filtered dataset file.
@@ -44,7 +44,7 @@ Implemented data processing and transformation tasks:
 6. Store processed data files (train, validate, test) to a local folder.
 
 ### PHASE 3 - Model Training and Inference
-> Corresponding notebook:  [model-training.ipynb](https://github.com/sinanw/lstm-stock-price-prediction/blob/main/notebooks/3-model-training.ipynb)
+> Corresponding notebook:  [Model-Training.ipynb](https://github.com/Pavun-KumarCH/LSTM-stock-price-prediction/blob/main/research%20-%20Notebooks/Model-Training.ipynb)
 
 Implemented training and prediction tasks:
 1. Load preprocessed dataset files (train, validate, test).
