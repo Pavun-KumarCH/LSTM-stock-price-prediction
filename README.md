@@ -68,10 +68,10 @@ Implemented training and prediction tasks:
 ## Prediction Results
 
 Google stock price predictions with LSTM:
-![Google stock price predictions with LSTM](reports/figures/google_stock_price_predictions.png)
+![Google stock price predictions with LSTM](reports/google_stock_price_predictions.png)
 
 
 
 Google stock price predictions with LSTM (last 50 financial days):
-![Google stock price predictions with LSTM](reports/figures/google_stock_price_predictions_last_50d.png)
+![Google stock price predictions with LSTM](reports/google_stock_price_predictions_last_50d.png)
 
