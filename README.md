@@ -21,7 +21,7 @@ The project is implemented in three consecutive phases simulating the essential 
 - Auxiliary and final models are stored inside the [models](models) directory.
 
 ### PHASE 1 - Explanatory Data Analysis
-> Corresponding notebook:  [data-explanatory-analysis.ipynb](https://github.com/sinanw/lstm-stock-price-prediction/blob/main/notebooks/1-data-explanatory-analysis.ipynb)
+> Corresponding notebook:  [Data-Explanatory-Analysis(EDA).ipynb](https://github.com/Pavun-KumarCH/LSTM-stock-price-prediction/blob/main/research%20-%20Notebooks/Data-Explanatory-Analysis(EDA).ipynb)
 
 Implemented data exploration tasks:
 1. Download and load the raw dataset file.
